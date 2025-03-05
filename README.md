@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Gavin
+-  Hi, I’m Gavin
   
-- 👀 I’m interested in Video Games, Music, Family/Friends, & Programming
-- 🌱 I’m currently learning Spring Boot and Angular
-- 📫 How to reach me gavinfromm@wayne.edu
+-  Software Engineer @ Ally Financial
+-  Wayne State University Alumni
+-  Contact: gavinfromm@wayne.edu
 
 <!---
 DR-D00F3NSHMIRTZ/DR-D00F3NSHMIRTZ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
